@@ -12,21 +12,12 @@ Please cite our paper in your publications if you find the ClaimDiff dataset use
 
 ```latex
 @misc{https://doi.org/10.48550/arxiv.2205.12221,
-  doi = {10.48550/ARXIV.2205.12221},
-  
-  url = {https://arxiv.org/abs/2205.12221},
-  
+  doi = {10.48550/ARXIV.2205.12221},  
+  url = {https://arxiv.org/abs/2205.12221}, 
   author = {Ko, Miyoung and Seong, Ingyu and Lee, Hwaran and Park, Joonsuk and Chang, Minsuk and Seo, Minjoon},
-  
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics},
-  
+  title = {Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics}, 
   publisher = {arXiv},
-  
   year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
