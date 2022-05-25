@@ -26,7 +26,7 @@ The ClaimDiff dataset includes 2,941 claim pairs extracted from 274 articles wit
 ### Statistics
 We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional `Test-full` dataset. `Test-full` can be considered an unfiltered test dataset to encounter the real-world distribution over whole articles, resulting in a high ratio of unrelated pairs.
 
-```markdown
+
 |              |  Train |  Test  | Test-full |
 |:------------:|:------:|:------:|:---------:|
 |     Pairs    |  1,857 |  1,084 |   3,173   |
@@ -34,7 +34,6 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 |   Articles   |   180  |   88   |     88    |
 | % Strengthen | 69.31% | 56.64% |   19.35%  |
 |   % Weaken   | 10.61% | 22.05% |   7.69%   |
-```
 
 ### Data Format
 
