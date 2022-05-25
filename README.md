@@ -5,22 +5,6 @@ This repository contains the data for our paper: *Miyoung Ko*, Ingyu Seong, Hwa
 - Please contact Miyoung Ko `miyoung@kaist.ac.kr` and Ingyu Seong `ingyu.ee@gmail.com`, or leave Github issues for suggestions and comments.
 - For more details about this dataset, see the [paper](https://arxiv.org/abs/2205.12221).
 
-## Citation
-
-
-Please cite our paper in your publications if you find the ClaimDiff dataset useful:
-
-```latex
-@misc{https://doi.org/10.48550/arxiv.2205.12221,
-  doi = {10.48550/ARXIV.2205.12221},  
-  url = {https://arxiv.org/abs/2205.12221}, 
-  author = {Ko, Miyoung and Seong, Ingyu and Lee, Hwaran and Park, Joonsuk and Chang, Minsuk and Seo, Minjoon},
-  title = {Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics}, 
-  publisher = {arXiv},
-  year = {2022},
-}
-```
-
 ## Dataset
 
 ### Data
@@ -70,3 +54,21 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 	"answer_prob": "float"
 }
 ```
+
+
+## Citation
+
+
+Please cite our paper in your publications if you find the ClaimDiff dataset useful:
+
+```latex
+@misc{https://doi.org/10.48550/arxiv.2205.12221,
+  doi = {10.48550/ARXIV.2205.12221},  
+  url = {https://arxiv.org/abs/2205.12221}, 
+  author = {Ko, Miyoung and Seong, Ingyu and Lee, Hwaran and Park, Joonsuk and Chang, Minsuk and Seo, Minjoon},
+  title = {Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics}, 
+  publisher = {arXiv},
+  year = {2022},
+}
+```
+
