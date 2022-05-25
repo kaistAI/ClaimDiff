@@ -1,6 +1,6 @@
 # ClaimDiff
 
-This repository contains the data for our paper: *Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang, Minjoon Seo. ["Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics](https://arxiv.org/abs/2205.12221)"*.
+This repository contains the data for our paper: *Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang, Minjoon Seo. ["Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics"](https://arxiv.org/abs/2205.12221)*.
 
 - Please contact Miyoung Ko `miyoung@kaist.ac.kr` and Ingyu Seong `ingyu.ee@gmail.com`, or leave Github issues for suggestions and comments.
 - For more details about this dataset, see the [paper](https://arxiv.org/abs/2205.12221).
