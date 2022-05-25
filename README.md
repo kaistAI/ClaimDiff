@@ -51,7 +51,6 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 	"article_b": "str(Title of Article B)",
 	"relation": "int(0 or 1)",
 	"rationle": "List[str]",
-	"answer_prob": "float"
 }
 ```
 
