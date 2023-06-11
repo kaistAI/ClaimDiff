@@ -18,11 +18,11 @@ The ClaimDiff dataset includes 2,941 claim pairs extracted from 274 articles wit
 │   ├── ClaimDiff-strength-train.json
 │   ├── ClaimDiff-strength-test.json
 │   └── ClaimDiff-strength-test-full.json
-└── 📁 ClaimDiff-W
+├── 📁 ClaimDiff-W
 │   ├── ClaimDiff-weak-train.json
 │   ├── ClaimDiff-weak-test.json
 │   └── ClaimDiff-weak-test-full.json
-├── annotation_result_unfiltered.json
+└── annotation_result_unfiltered.json
 ```
 
 ### Statistics
