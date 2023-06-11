@@ -1,6 +1,6 @@
 # ClaimDiff
 
-This repository contains the data for our paper: *Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang, Minjoon Seo. ["Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics"](https://arxiv.org/abs/2205.12221)*.
+This repository contains the data for our paper: *Miyoung Ko, Ingyu Seong, Hwaran Lee, Joonsuk Park, Minsuk Chang, Minjoon Seo. ["ClaimDiff: Comparing and Contrasting Claims on Contentious Issues"](https://arxiv.org/abs/2205.12221)*.
 
 - Please contact Miyoung Ko `miyoung@kaist.ac.kr` and Ingyu Seong `ingyu.ee@gmail.com`, or leave Github issues for suggestions and comments.
 - For more details about this dataset, see the [paper](https://arxiv.org/abs/2205.12221).
@@ -13,6 +13,7 @@ The ClaimDiff dataset includes 2,941 claim pairs extracted from 274 articles wit
 
 ```
 🗃 ClaimDiff
+├── annotation_result_unfiltered.json
 ├── 📁 ClaimDiff-S
 │   ├── ClaimDiff-strength-train.json
 │   ├── ClaimDiff-strength-test.json
@@ -21,6 +22,7 @@ The ClaimDiff dataset includes 2,941 claim pairs extracted from 274 articles wit
     ├── ClaimDiff-weak-train.json
     ├── ClaimDiff-weak-test.json
     └── ClaimDiff-weak-test-full.json
+
 ```
 
 ### Statistics
@@ -33,7 +35,7 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 |    Topics    |   90   |   44   |     44    |
 |   Articles   |   180  |   88   |     88    |
 | % Strengthen | 69.31% | 56.64% |   19.35%  |
-|   % Weaken   | 10.61% | 22.05% |   7.69%   |
+|   % Weaken   | 10.61% | 21.96% |   7.50%   |
 
 ### Data Format
 
