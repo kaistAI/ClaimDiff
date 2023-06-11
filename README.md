@@ -54,7 +54,7 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 	"rationale": "List[str]",
 }
 ```
-
+`annotation_result_unfiltered.json` files contain a list of items with average response score before filtering. This list also includes examples with average scores between (-0.5, 0.5).
 
 ## Citation
 
