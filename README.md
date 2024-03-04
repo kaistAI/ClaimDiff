@@ -62,13 +62,18 @@ We release our main ClaimDiff dataset {`Train`, `Test`} along with an additional
 Please cite our paper in your publications if you find the ClaimDiff dataset useful:
 
 ```latex
-@misc{https://doi.org/10.48550/arxiv.2205.12221,
-  doi = {10.48550/ARXIV.2205.12221},  
-  url = {https://arxiv.org/abs/2205.12221}, 
-  author = {Ko, Miyoung and Seong, Ingyu and Lee, Hwaran and Park, Joonsuk and Chang, Minsuk and Seo, Minjoon},
-  title = {Beyond Fact Verification: Comparing and Contrasting Claims on Contentious Topics}, 
-  publisher = {arXiv},
-  year = {2022},
+@inproceedings{ko-etal-2023-claimdiff,
+    title = "{C}laim{D}iff: Comparing and Contrasting Claims on Contentious Issues",
+    author = "Ko, Miyoung  and
+      Seong, Ingyu  and
+      Lee, Hwaran  and
+      Park, Joonsuk  and
+      Chang, Minsuk  and
+      Seo, Minjoon",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    pages = "4711--4731",
 }
 ```
 
